@@ -1,6 +1,0 @@
-@media screen and (max-width: 900px) and (min-width: 600px) {
-    .card {
-      display: flex;
-      flex-wrap: wrap;
-    }
-  }
